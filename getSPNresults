@@ -1,0 +1,11 @@
+##PowerShell
+Setspn -L AccountName
+
+
+
+##You can use the setspn command to list the registered Service Principal Names (SPNs) for a specific account. The command you use is:
+##
+##Setspn -L AccountName
+##
+##-L = get a list of spn output
+##Account name = This is the name of the account for which you want to list the SPNs. It can be a user account, a computer account, or a service account.
